@@ -14,12 +14,7 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-3">
-        <nav class="nav flex-column" style="position: fixed;">
-          <a class="nav-link active" href="#">Home</a>
-          <a class="nav-link" href="#">As an Engineer</a>
-          <a class="nav-link" href="#">About La Mian Guan <br> <span>拉面馆</span></a>
-          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-        </nav>
+        {% include navigation.html %}
       </div>
       <div class="col-9">
         {{ content }}

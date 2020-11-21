@@ -1,0 +1,8 @@
+<nav class="nav flex-column nav-pills" style="position: fixed;">
+	{% for item in site.data.navigation %}
+  <a class="nav-link {% if page.url == item.link %} active {% endif %}" href="{{ item.link }}"> {{ item.name }} </a>
+  <!-- <a class="nav-link" href="#">As an Engineer</a>
+  <a class="nav-link" href="#">About La Mian Guan <br> <span>拉面馆</span></a>
+  <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a> -->
+  {% endfor %}
+</nav>
