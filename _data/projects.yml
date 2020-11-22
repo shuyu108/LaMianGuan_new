@@ -1,0 +1,21 @@
+- title: Automatic Videography on Android Smartphones w/ Audio Signal
+  date: 01/2019 - 04/2019
+  subtitle: My senior design project. Developed in a team of 5.
+  imgsrc: /assets/images/Image.Filter.SignalSimulation-20190502-BW_-1_1200.jpg
+  link: /docs/projects/auto_videography_android.html
+  description: 
+    - I think smartphones have potential to shoot video all by themselves. People shoot videos by following the object(e.g., children, friends, cats, cars...) in a smooth fashion
+- title: Melody Extraction of Audio w/ Salience Representation
+  date: 04/2018
+  subtitle: My first free-will audio interpretation project.
+  imgsrc: /assets/images/Image.Filter.SignalSimulation-20190502-BW_-1_1200.jpg
+  link: #
+  description: 
+    - The goal is to obtain a melody line, given any piece of musical clips. This is useful for further tasks, such as song matching based on melody(Strings), so that different versions of the same song (e.g., recordings, lives, covers, hummings) can be automatically related.
+    - To me, automatic Melody extraction is an interesting problem, since it is a combination of objective(loudness) and subjective(being "melodic") matters...
+- title: TBD
+  date:
+  subtitle:
+  imgsrc: /assets/images/Image.Filter.SignalSimulation-20190502-BW_-1_1200.jpg
+  link: #
+  description:
